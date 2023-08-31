@@ -1,4 +1,5 @@
-<h2 align="center">Hello, Fellow Developers</h2>
+<h1 align="center">Hi 👋, I'm Bibek Chaudhary</h1>
+<h3 align="center">Fullstack Javascript developer and Typescript enthuasist</h3>
 
 ###
 
