@@ -3,7 +3,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Figtree&weight=700&size=30&duration=3000&pause=100&center=true&vCenter=true&width=435&lines=Hello%2C+Fellow+Developers+%F0%9F%91%8B;I+am+Bibek+Chaudhary" alt="Typing SVG" /></a>
-  <h3 align="center">Fullstack Javascript developer and Typescript enthuasist</h3>
+  <h3 align="center">Fullstack Javascript developer and Typescript enthusiast</h3>
 </div>
 
 ###
